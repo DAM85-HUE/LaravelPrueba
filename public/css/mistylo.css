@@ -1,0 +1,31 @@
+footer{
+    text-align: center;
+}
+
+.tiny{
+    font-size: 1px;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: #004085;
+}
+
+#avisoplaza{
+    background-color: #1c7430;
+    color: #ffffff;
+}
+
+.iconos{
+    vertical-align: middle;
+}
+
+.red-color{
+    color: #bd2130;
+}
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
